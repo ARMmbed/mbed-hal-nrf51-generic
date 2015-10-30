@@ -1,0 +1,30 @@
+{
+  "name": "mbed-hal-nrf51-generic",
+  "version": "0.0.0",
+  "description": "Generic mbed HAL for Nordic NRF51822 platforms.",
+  "private": true,
+  "keywords": [
+    "mbed",
+    "hal",
+    "nrf51",
+    "nordic",
+    "nrf51822"
+  ],
+  "author": "Marcus Chang <marcus.chang@arm.com>",
+  "repository": {
+    "url": "ARMmbed/mbed-hal-nrf51-generic.git",
+    "type": "git"
+  },
+  "homepage": "https://github.com/ARMmbed/mbed-hal-nrf51-generic",
+  "licenses": [
+    {
+      "url": "https://spdx.org/licenses/Apache-2.0",
+      "type": "Apache-2.0"
+    }
+  ],
+  "extraIncludes": [
+    "mbed-hal-nrf51-generic"
+  ],
+  "dependencies": {
+  }
+}
