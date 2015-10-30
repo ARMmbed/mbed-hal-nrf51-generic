@@ -2,7 +2,6 @@
   "name": "mbed-hal-nrf51-generic",
   "version": "1.0.0",
   "description": "Generic mbed HAL for Nordic NRF51822 platforms.",
-  "private": true,
   "keywords": [
     "mbed",
     "hal",
